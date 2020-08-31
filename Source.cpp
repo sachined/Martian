@@ -1,12 +1,3 @@
-/*
-Spring 2018 CIS 29 Larkin
-
-Name: Sachin Nediyanchath
-IDE: VS 2017
-
-*/
-
-
 #include <fstream>
 #include <vector>
 #include <string>
