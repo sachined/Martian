@@ -1,9 +1,9 @@
 # Martian
-This will read a series of coordinates that will turn into a post (Binary to String) through number of classes that each serve a unique function
+This will read a series of coordinates that will turn into a post through number of classes that each serve a unique function
 <hr>
 Classes
 
-File_text: Reads a binary file, which are then broken into lines, which are then stored in a vector.
+File_text: Reads a cvs file, which are then broken into lines, which are then stored in a vector.
 
 Coords: Breaks down the lines into tokens of coordinates, which are then converted into hex code and then into ASCII code.
 
