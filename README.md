@@ -1,6 +1,5 @@
 ## 3. Martian
 
-```markdown
 # 🔴 Martian
 
 A C++ program that reads coordinate data from a CSV file, processes it through a multi-class pipeline, and outputs a decoded text post.
@@ -33,6 +32,7 @@ Text file   ←  final decoded string written to output
 - File I/O (read CSV, write text output)
 
 ## Build
+```
 bash
 g++ -std=c++11 -o martian *.cpp
 ./martian <input.csv>
