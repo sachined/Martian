@@ -1,5 +1,3 @@
-## 3. Martian
-
 # 🔴 Martian
 
 A C++ program that reads coordinate data from a CSV file, processes it through a multi-class pipeline, and outputs a decoded text post.
